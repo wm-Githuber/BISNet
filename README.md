@@ -2,8 +2,6 @@
 
 Here, we provide the official pytorch implementation of the paper "BISNet".
 
-// ![Net-Architecture] # (https://user-images.githubusercontent.com/66511993/210692766-5c698bdd-5077-4e7b-8274-c899f86b3cf9.png)
-
 
 # Requirements
 * python        3.9.12
@@ -37,16 +35,6 @@ LEVIR-CD: https://justchenhao.github.io/LEVIR/
 train.py  
 Test.py
 
-# Quantitative Results
-# ![image](https://user-images.githubusercontent.com/66511993/210712080-516684e9-0da2-4a7f-b159-a352a3c86e56.png)
-
-# Qualitative Results
-# ![SYSU-result](https://user-images.githubusercontent.com/66511993/210714033-e006d556-97d1-47e9-8423-3de7a983f385.png)
-
-# Pre-trained
-# The pretrained models can be downloaded at:  
-# address：https://pan.baidu.com/s/1Zg_zdMyHIa9V_s3TO-o9pw 
-# password：ntjw
 
 # Licence
 The code is released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
