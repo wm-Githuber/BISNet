@@ -2,7 +2,7 @@
 
 Here, we provide the official pytorch implementation of the paper "BISNet".
 
-# ![Net-Architecture] # (https://user-images.githubusercontent.com/66511993/210692766-5c698bdd-5077-4e7b-8274-c899f86b3cf9.png)
+% ![Net-Architecture] # (https://user-images.githubusercontent.com/66511993/210692766-5c698bdd-5077-4e7b-8274-c899f86b3cf9.png)
 
 
 # Requirements
